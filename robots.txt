@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vnq1g6.saturadar88.shop/sitemap.xml
